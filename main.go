@@ -53,9 +53,9 @@ func main()  {
 	//	}
 	//	c.JSON(http.StatusOK, data)
 	//})
-	//endPoint := ":9999"
+	//endPoint := ":8080"
 	//log.Printf("[info] start http server listening %s", endPoint)
-	//r.Run(":9999")
+	//r.Run(endPoint)
 
 }
 
