@@ -49,10 +49,12 @@ func main()  {
 	//	data := map[string]interface{}{
 	//		"code": 200,
 	//		"msg": "success",
-	//		"data": map[string]interface{},
+	//		"data": "",
 	//	}
 	//	c.JSON(http.StatusOK, data)
 	//})
+	//endPoint := ":9999"
+	//log.Printf("[info] start http server listening %s", endPoint)
 	//r.Run(":9999")
 
 }
